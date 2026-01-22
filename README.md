@@ -9,11 +9,6 @@
 </p>
 
 <div align="center">  
-<br><p align="centre"><b>Rugplay (totally real stock market)</b></p>  
-<p align="center"><img align="center" src="http://172.235.28.71:3000/api/coin-image/SYST" /></p> 
-<br></div>
-
-<div align="center">  
 <br><p align="centre"><b>Website (ft. Pointless Button and Discord):</b></p>  
 <p>https://your-iq.is-best.net</p>
 <br></div>
