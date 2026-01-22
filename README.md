@@ -9,11 +9,11 @@
 </p>
 
 <div align="center">  
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Harsh-2121}/count.svg" /></p> 
+<br><p align="centre"><b>Rugplay (totally real stock market)</b></p>  
+<p align="center"><img align="center" src="https://rugplay-proxy-v1-production.up.railway.app/api/coin/ALCN" /></p> 
 <br></div>
 
 <div align="center">  
-<br><p align="centre"><b>Website (Projects)</b></p>  
+<br><p align="centre"><b>Website (Pointless Button and Discord):</b></p>  
 <p>https://your-iq.is-best.net</p> 
 <br></div>
