@@ -10,7 +10,7 @@
 
 <div align="center">  
 <br><p align="centre"><b>Rugplay (totally real stock market)</b></p>  
-<p align="center"><img align="center" src="https://rugplay-proxy-v1-production.up.railway.app/api/coin/ALCN" /></p> 
+<p align="center"><img align="center" src="https://rugplay-proxy-v1-production.up.railway.app/api/coin-image/ALCN" /></p> 
 <br></div>
 
 <div align="center">  
