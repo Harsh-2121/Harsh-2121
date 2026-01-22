@@ -1,16 +1,19 @@
-## Hi there 👋
+<div align="center">  
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-2121&theme=radical&card_width=466">
+</p>
+</div>
 
-<!--
-**Harsh-2121/Harsh-2121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Harsh-2121&&show_icons=true&theme=radical">
+</p>
 
-Here are some ideas to get you started:
+<div align="center">  
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Harsh-2121}/count.svg" /></p> 
+<br></div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">  
+<br><p align="centre"><b>Website (Projects)</b></p>  
+<p>https://your-iq.is-best.net</p> 
+<br></div>
