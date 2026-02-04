@@ -1,33 +1,21 @@
 <div align="center">
-  
-# 🚀 Welcome to the Digital Playground  
 
-> *Where curiosity meets code, and sometimes a pointless button or two.*  
+# 🌌 GIZMOWIZARD DEV 🌠
 
----
+> *"We are all in the gutter, but some of us look at the stars."*
 
-### 🌐 **Website & Socials**  
-[![Website](https://img.shields.io/badge/🚀_Visit_My_Website-000000?style=for-the-badge)](https://your-iq.is-best.net)  
-[![Discord](https://img.shields.io/badge/💬_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your-invite)  
-
-**Yes, there’s a pointless button. No, I won’t tell you what it does.** 😉
+![Cosmic Banner](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+Github+Profile!;Check+out+the+POINTLESS+BUTTON!;Discord+link+below!;May+JS+be+with+you!)
 
 ---
 
-### ⚡ **Live GitHub Stats**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harsh-2121&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-2121&layout=compact&theme=radical)  
+## 🎯 **QUICK LAUNCH PAD**
+
+[![Portal](https://img.shields.io/badge/🌐_WEBSITE_👁️-black?style=for-the-badge&logo=vercel&logoColor=white)](https://your-iq.is-best.net)
+[![Discord](https://img.shields.io/badge/💬_DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://your-iq.is-best.net)
+[![Button](https://img.shields.io/badge/🔘_POINTLESS_BUTTON-FF6B8B?style=for-the-badge&logo=github&logoColor=white)](https://your-iq.is-best.net)
+
+**Warning:** The pointless button serves no purpose. Proceed with zero expectations.
 
 ---
 
-### 🎮 **This Profile Is**  
-![Code Time](http://img.shields.io/badge/Code%20Time-100%25%20Awesome-blue)  
-![Powered By](http://img.shields.io/badge/Powered%20By-Caffeine%20%26%20Chaos-orange)  
-
-*“Perfection is achieved not when there is nothing more to add, but when there is nothing left to take away.”*  
-*(But I added a pointless button anyway.)*  
-
----
-  
-⭐ *If you found this README amusing, you might enjoy the pointless button. Just saying.*  
 </div>
