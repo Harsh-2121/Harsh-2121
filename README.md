@@ -11,7 +11,9 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Harsh-2121&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
 
-![Dynamic Quote](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=F7768E&center=true&vCenter=true&width=600&lines=It+works+on+my+machine;Ship+it;404+Sleep+Not+Found;Refactoring+tomorrow)
+![Dynamic Quote](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=F7768E&center=true&vCenter=true&width=600&lines=ULTRA+Sponsor;Ship+it+with;404+DigitalOcean-up;Refactoring+Droplets)
+
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%202.svg)](https://www.digitalocean.com/?refcode=553972c38667&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
 
 ---
 
