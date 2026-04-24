@@ -16,7 +16,6 @@
 
 <p align="center"> <img src="https://api.star-history.com/svg?repos=Harsh-2121/Saphyra-v3.0&type=Timeline&theme=dark&background=0d1117&border=00d4ff&text=ffffff&grid=1a1a1a" /> </p>
 
-**SOME PROJECTS**
 [![Discord](https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/WfZpDCFBrX)
 [![Button](https://img.shields.io/badge/POINTLESS_BUTTON-FF6B8B?style=for-the-badge&logo=github&logoColor=white)](https://your-iq.is-best.net)
 
