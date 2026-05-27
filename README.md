@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌌 GIZMOWIZARD DEV 🌠
+# GIZMOWIZARD
 
 > *"We are all in the gutter, but some of us look at the stars."*
 
