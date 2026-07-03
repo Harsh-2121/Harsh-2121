@@ -2,11 +2,7 @@
 
 *"We are all in the gutter, but some of us look at the stars."* - Oscar Wilde
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Harsh-2121&color=ffae00&label=Profile+Views" /> </p>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Harsh-2121&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
-
-![Dynamic Quote](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&color=FFE6B8&center=true&vCenter=true&width=600&lines=ULTRA+Sponsor;Ship+it+with;404+DigitalOcean-up;Refactoring+Droplets)
+[![My GitFut card](https://gitfut.com/Harsh-2121.png)](https://gitfut.com/Harsh-2121)
 
 [![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%202.svg)](https://www.digitalocean.com/?refcode=553972c38667&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
 
