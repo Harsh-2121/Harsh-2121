@@ -29,5 +29,12 @@ A developer with ambitions.
 
 Portfolio: https://gizmowizard.tech
 
+---
+### Gitfut
 
-**Touch some grass man**
+<img width="249" height="378" alt="image" src="https://github.com/user-attachments/assets/6fd0d968-7970-4d94-b82c-45ee572289b8" />
+
+---
+
+
+<sub> touch some grass man and never lose faith in whatever you do! </sub>
