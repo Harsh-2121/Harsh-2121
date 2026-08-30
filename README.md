@@ -21,11 +21,7 @@ A developer with ambitions.
 ---
 ### Socials
 
- - <a href="https://bsky.app/profile/gizmowizard.bsky.social"> <img src="https://web-cdn.bsky.app/static/favicon-32x32.png" width="24" alt="GizmoWizard's bluesky" style="vertical-align: middle;" > </a> Bluesky
-
- - <a href="https://discord.gg/3Kjhxtxsab"> <img src="https://discord.com/assets/favicon.ico" width="24" alt="Lyntr Discord Server" style="vertical-align: middle;" > </a> Join the Lyntr Discord server!
-
- - <a href="https://x.com/gizmo_dev352"> <img src="https://abs.twimg.com/favicons/twitter.3.ico" width="24" alt="My Twitter(yes I insist on calling it twitter)" style="vertical-align: middle;" > </a> X
+<<< Right here, *ma foi*!
 
 Portfolio: https://gizmowizard.tech
 
