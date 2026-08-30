@@ -2,25 +2,32 @@
 
 *"We are all in the gutter, but some of us look at the stars."* - Oscar Wilde
 
-[![My GitFut card](https://gitfut.com/Harsh-2121.png)](https://gitfut.com/Harsh-2121)
-
-[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%202.svg)](https://www.digitalocean.com/?refcode=553972c38667&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
-
----
-
-<p align="center"> <img src="https://api.star-history.com/svg?repos=Harsh-2121/Saphyra-v3.0&type=Timeline&theme=dark&background=0d1117&border=00d4ff&text=ffffff&grid=1a1a1a" /> </p>
-
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-FF3B30?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://gizmowizard.tech)
-[![Discord](https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/WfZpDCFBrX)
-[![Button](https://img.shields.io/badge/POINTLESS_BUTTON-FF6B8B?style=for-the-badge&logo=github&logoColor=white)](https://your-iq.is-best.net)
-
-## **Skill Set:**
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,postgres,prisma,redis,docker,nginx,linux,git,github,vscode,figma,blender,unity&perline=9&theme=dark" />
-</p>
-
-Touch some grass man
-
----
+[![Harsh-2121's GitYear](https://www.gityear.com/api/card/Harsh-2121?theme=yellowPine)](https://www.gityear.com/Harsh-2121)
 
 </div>
+
+A developer with ambitions.
+
+### Projects I'm proud of:
+
+- <img src="https://lyntr.gizmowizard.tech/logo_light.svg" width="32" alt="Lyntr" style="vertical-align: bottom;">**Lyntr** — a free open-source social media platform, with badges, name colours, DMs, a forum and more. Go visit it [here!](https://lyntr.gizmowizard.tech/) Repo: https://github.com/GizmoWizardNet/lyntr
+
+- <img src="https://geddit.gizmowizard.tech/logo.svg" width="32" alt="Lyntr" style="vertical-align: middle;">**Geddit** - a *kind* of Reddit clone with the ability for everyone to edit everyone. You know it gets fucking *crazy*. Join the gang of degens [here](https://geddit.gizmowizard.tech/). No github repo for this one yet, sorry.
+
+---
+
+<img src="https://avatars.githubusercontent.com/u/279506003?s=200&v=4" width="32" alt="GizmoWizardNet" style="vertical-align: middle;"> My own organisation, **GizmoWizardNet**. Almost all the projects I do is under this, except my own personal stuff. Members credits: **CurlyfriesOriginala(Culyfries)**, **me**, **hiyooooo1(Cuber_3D)**, **NotHMRC**, **Stormzady** and **TheLastPear**. Follow our organisation for notifications about new and cool projects!
+
+---
+### Socials
+
+ - <a href="https://bsky.app/profile/gizmowizard.bsky.social"> <img src="https://web-cdn.bsky.app/static/favicon-32x32.png" width="24" alt="GizmoWizard's bluesky" style="vertical-align: middle;" > </a> Bluesky
+
+ - <a href="https://discord.gg/3Kjhxtxsab"> <img src="https://discord.com/assets/favicon.ico" width="24" alt="Lyntr Discord Server" style="vertical-align: middle;" > </a> Join the Lyntr Discord server!
+
+ - <a href="https://x.com/gizmo_dev352"> <img src="https://abs.twimg.com/favicons/twitter.3.ico" width="24" alt="My Twitter(yes I insist on calling it twitter)" style="vertical-align: middle;" > </a> X
+
+Portfolio: https://gizmowizard.tech
+
+
+**Touch some grass man**
